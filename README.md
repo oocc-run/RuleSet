@@ -1,13 +1,6 @@
-## 资源
+## Surge
 
 [官方网站](https://nssurge.com/) / [手册](http://manual.nssurge.com/) / [常见问题](https://nssurge.zendesk.com/) / [社区](https://community.nssurge.com/)
-
-## 配置
-
-| 类别 | 配置 |
-| :------------: | :------------: |
-| 出国版 | [Outbound](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Outbound.conf) |
-| 回国版 | [Inbound](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Inbound.conf) |
 
 ## 说明
 
@@ -76,3 +69,5 @@ Streaming 策略组最初的设想使用方式是独立出来给有观看流媒�
 - 哔哩哔哩（僅限港澳台地區）；
 - 愛奇藝海外站；
 - 芒果TV国际；
+
+## Clash
